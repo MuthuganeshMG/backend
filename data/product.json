@@ -1,0 +1,87 @@
+[
+    {
+    "name": "oppo 15",
+    "price": 250,
+    "description": "oppo 5g mobile",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "image"
+      },
+      {
+        "image": "image"
+      }
+    ],
+    "category": "mobile phone",
+    "seller": "amezon",
+    "stock": 5
+  },
+    {
+    "name": "oppo 1",
+    "price": 250,
+    "description": "oppo 5g mobile",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "image"
+      },
+      {
+        "image": "image"
+      }
+    ],
+    "category": "mobile phone",
+    "seller": "amezon",
+    "stock": 5
+  },
+    {
+    "name": "oppo 2",
+    "price": 250,
+    "description": "oppo 5g mobile",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "image"
+      },
+      {
+        "image": "image"
+      }
+    ],
+    "category": "mobile phone",
+    "seller": "amezon",
+    "stock": 5
+  },
+    {
+    "name": "oppo 3",
+    "price": 250,
+    "description": "oppo 5g mobile",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "image"
+      },
+      {
+        "image": "image"
+      }
+    ],
+    "category": "mobile phone",
+    "seller": "amezon",
+    "stock": 5
+  },
+  {
+    "name": "oppo 4",
+    "price": 250,
+    "description": "oppo 5g mobile",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "image"
+      },
+      {
+        "image": "image"
+      }
+    ],
+    "category": "mobile phone",
+    "seller": "amezon",
+    "stock": 5
+  }
+]
